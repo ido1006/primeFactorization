@@ -2,7 +2,7 @@
 .cpp
 ```
 g++ -o nabeatsu.out nabeatsu.cpp
-./nabeatsu
+./nabeatsu.out
 ```
 .sh
 ```
